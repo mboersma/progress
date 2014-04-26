@@ -21,3 +21,10 @@ _testmain.go
 
 *.exe
 *.test
+
+# demo binaries
+/demo/demo
+
+# Sublime Text droppings
+*.sublime-project
+*.sublime-workspace
